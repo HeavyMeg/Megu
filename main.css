@@ -1,0 +1,38 @@
+h1 {
+	color: #FF0000;
+}
+p.first {
+	color: #FFF;
+	background: #0000FF;
+	width: 100px;
+	margin-bottom: 100px;
+}
+span {
+	color: #FF0000;
+}
+h2.next {
+	color:#FFF ;
+	background: #008000;
+	height: 40px;
+	padding-top: 5px ;
+	
+}
+.teg {
+	color: #FFF ;
+	background: #008000;
+	height: 120px;
+	box-sizing: border-box ;
+	padding-top:50px ;
+	padding-left: 50px;
+}
+li {
+	border: 2px solid black;
+	font-size: 30px;
+}
+.last {
+	color: #FFF;
+	background: #008000;
+	box-sizing: border-box ;
+	padding: 2px;
+	margin-bottom: 20px;
+}
