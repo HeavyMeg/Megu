@@ -1,0 +1,124 @@
+body {
+		padding: 0px;
+		margin: 0px;
+}
+
+div, p, input, button, form, span, a, ul, li {
+	box-sizing: border-box;
+}
+.container {
+	width: 1171px;
+	margin: 0 auto;
+}
+.header {
+		background: rgba(78,189,254,1);
+background: -moz-linear-gradient(-45deg, rgba(78,189,254,1) 0%, rgba(55,144,217,1) 100%);
+background: -webkit-gradient(left top, right bottom, color-stop(0%, rgba(78,189,254,1)), color-stop(100%, rgba(55,144,217,1)));
+background: -webkit-linear-gradient(-45deg, rgba(78,189,254,1) 0%, rgba(55,144,217,1) 100%);
+background: -o-linear-gradient(-45deg, rgba(78,189,254,1) 0%, rgba(55,144,217,1) 100%);
+background: -ms-linear-gradient(-45deg, rgba(78,189,254,1) 0%, rgba(55,144,217,1) 100%);
+background: linear-gradient(135deg, rgba(78,189,254,1) 0%, rgba(55,144,217,1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#4ebdfe', endColorstr='#3790d9', GradientType=1 );
+color: #FFF;
+}
+.wrapper {
+	display: flex;
+	justify-content: space-between;
+}
+.logo {
+	padding-top: 90px;
+
+}
+.offer {
+	margin-top: 155px;
+	width: 580px;
+
+}
+h1 {
+	font-family: 'Ubuntu', sans-serif;
+	font-size: 37px;
+	line-height: 49px;
+	font-weight: 700;
+}
+.text {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 16px;
+}
+.btn {
+	background: #ffd429;
+	color: #000;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 15px;
+	display: block;
+	width: 220px;
+	padding: 20px 0;
+	text-align: center ;
+	text-decoration: none ;
+	transition: all 0.5s ease;
+}
+p {
+	line-height: 1.6em;
+}
+.second {
+	letter-spacing: 0.02em;
+	padding-bottom: 28px;	
+}
+.desktop {
+	padding-bottom: 140px;
+	padding-top: 65px;
+}
+span.text {
+	font-size: 60px;
+	font-family: 'Ubuntu', sans-serif;
+}
+.btn:hover {
+	background: #a88809;
+}
+.learn {
+	padding-top: 105px;
+	padding-bottom: 120px;	
+}
+.section-title {
+	font-family: 'Ubuntu', sans-serif;
+	text-align: center;
+	padding-bottom: 60px;
+}
+.time {
+	display: flex;
+	justify-content: space-between;
+	width: 300px;
+}
+.next {
+	
+	background: url('../img/icon1.jpg') no-repeat center top;
+
+}
+	.travel {
+	
+	background: url('../img/icon2.jpg') no-repeat center top;
+}
+		.valuable {
+	
+	background: url('../img/icon3.jpg') no-repeat center top;
+}
+.next-title {
+	font-size: 18px;
+	font-family: 'Ubuntu', sans-serif;
+	font-size: 19px;
+	padding-top: 70px;
+	text-align: center;
+
+}
+.next-text {
+	font-size: 15px;
+	font-family: 'Open Sans', sans-serif;
+	margin-top: -0.5px;
+	text-align: center;
+}
+.time-travel {
+	width: 500px;
+}
+
+
+
+
